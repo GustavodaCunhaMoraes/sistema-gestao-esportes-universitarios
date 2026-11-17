@@ -3,7 +3,7 @@ public abstract class Pessoa{
     private String email;
     private String senha;
     private int idade;
-    private final char sexo;
+    private char sexo;
 
     public String getNome(){
         return nome;
